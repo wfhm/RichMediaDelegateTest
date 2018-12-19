@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RichMediaDelegateTest</string>
+    <string name="log_in_button">"Log In"</string>
+    <string name="splash_screen_text">"Splash Screen"</string>
+    <string name="log_out_button">"Log Out"</string>
+    <string name="fcm_sender_id">245850018966</string>
+</resources>
